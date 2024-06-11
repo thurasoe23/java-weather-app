@@ -10,7 +10,7 @@ import org.json.JSONObject;
  * WeatherAPI class handles communication with the OpenWeatherMap API.
  */
 public class WeatherAPI {
-    private static final String API_KEY = "1e11167c62ecd7f9562cc6d0c340742c";
+    private static final String API_KEY = "your_api_key_here";
     private static final String BASE_URL = "http://api.openweathermap.org/data/2.5/weather";
     private static final String FORECAST_URL = "http://api.openweathermap.org/data/2.5/forecast";
 
